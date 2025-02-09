@@ -1,0 +1,6 @@
+@Ascendion.InterviewApi_HostAddress = http://localhost:5193
+
+GET {{Ascendion.InterviewApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

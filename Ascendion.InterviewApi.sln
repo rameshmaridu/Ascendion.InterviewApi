@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ascendion.InterviewApi", "Ascendion.InterviewApi\Ascendion.InterviewApi.csproj", "{B50014DB-8D09-4B95-857C-4E943CE11650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ascendion.InterviewApi.Tests", "Ascendion.InterviewApi.Tests\Ascendion.InterviewApi.Tests.csproj", "{524AD5F0-773F-412C-AE67-583323922FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50014DB-8D09-4B95-857C-4E943CE11650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50014DB-8D09-4B95-857C-4E943CE11650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50014DB-8D09-4B95-857C-4E943CE11650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50014DB-8D09-4B95-857C-4E943CE11650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524AD5F0-773F-412C-AE67-583323922FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524AD5F0-773F-412C-AE67-583323922FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524AD5F0-773F-412C-AE67-583323922FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524AD5F0-773F-412C-AE67-583323922FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
